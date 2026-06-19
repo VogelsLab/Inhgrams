@@ -33,7 +33,7 @@ conda activate ingrams
 ```
 ## Data
 
-Data to reproduce the results will be archived on Zenodo (DOI: 10.5281/zenodo.20764012) upon acceptance.
+Data to reproduce the results will be archived on Zenodo (DOI: 10.5281/zenodo.20764012) upon final publication.
 Raw simulation files are archived at ISTA servers.
 
 ## Citation
