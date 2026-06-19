@@ -1,5 +1,5 @@
 <h1>
-  <img src="ingrams_github.png" width="200" align="left" style="margin-right: 15px">
+  <img src="ingrams_github.png" width="200" align="left" style="margin-right: 150px">
 </h1>
 
 
