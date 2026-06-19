@@ -16,11 +16,11 @@ This repository reproduces the main and supplementary figures and includes the n
 ├── fig_8_9_s5.ipynb       # Fig. 8, 9, S5   — ingram formation and prediction
 │
 ├── networks/              # Brian2 
-│   ├── co-active_stability/
-│   ├── EI_assembly/
-│   ├── ingram_formation/
-│   ├── pattern_completion/
-│   └── pattern_separation/
+    ├── co-active_stability/
+    ├── EI_assembly/
+    ├── ingram_formation/
+    ├── pattern_completion/
+    └── pattern_separation/
 
 ```
 ## Environment setup
