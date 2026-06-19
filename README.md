@@ -1,7 +1,7 @@
-<table border="0">
+<table>
 <tr>
 <td width="220"><img src="ingrams_github.png" width="200"></td>
-<td><h1>Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition</h1></td>
+<td><h2>Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition</h2></td>
 </tr>
 </table>
 
