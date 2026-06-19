@@ -6,7 +6,7 @@
 </table>
 
 Companion code to Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams. 
-This repository reproduces the main and supplementary figures and includes the network simulation scripts used to generate the underlying data.
+This repository reproduces the main and supplementary figures and includes the network simulation scripts.
 
 ## Repository structure
 
