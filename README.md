@@ -1,9 +1,8 @@
 <h1>
-  <img src="ingrams_github.png" width="80" align="left" style="margin-right: 15px">
+  <img src="ingrams_github.png" width="300" align="left" style="margin-right: 15px">
   Ingrams for engrams
 </h1>
 
-# Ingrams for engrams
 ## Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition
 
 Companion code to Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams. 
