@@ -6,7 +6,7 @@
 
 
 
-## Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition
+# Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition
 
 Companion code to Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams. 
 This repository reproduces the main and supplementary figures and includes the network simulation scripts used to generate the underlying data.
