@@ -1,0 +1,19 @@
+name: ingrams
+channels:
+  - brian-team
+  - conda-forge
+dependencies:
+  - python=3.6.15
+  - brian2=2.4.2
+  - cython=0.29.24
+  - gsl=2.8
+  - numpy=1.18.5
+  - matplotlib=3.3.4
+  - pandas=1.0.5
+  - scikit-learn=0.23.2
+  - jupyter
+  - ipykernel
+  - gcc_linux-64=7.5.0
+  - gxx_linux-64=7.5.0
+  - pip:
+      - brian2==2.4.2
