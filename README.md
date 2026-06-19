@@ -1,3 +1,10 @@
+<table border="0">
+<tr>
+<td><img src="ingrams_github.png" width="120"></td>
+<td><h1>Ingrams for engrams</h1></td>
+</tr>
+</table>
+
 # Ingrams for engrams
 ## Co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition
 
