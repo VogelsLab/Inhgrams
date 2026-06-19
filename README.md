@@ -38,5 +38,5 @@ Raw simulation files are archived at ISTA servers.
 
 ## Citation
 
-Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams
-Brian2 citation
+1) Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams
+2) Stimberg, Marcel, Goodman, Dan F.M., & Brette, Romain. (Sep 4, 2020). Brian 2 (Version 2.4). Zenodo. doi: 10.5281/zenodo.4015226
