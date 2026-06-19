@@ -21,10 +21,7 @@ This repository reproduces the main and supplementary figures and includes the n
 │   ├── ingram_formation/
 │   ├── pattern_completion/
 │   └── pattern_separation/
-│
-└── data/                  # (~600 MB)
-    ├── fig1/  fig2/  fig3/
-    └── fig4_5/  fig6_7/  fig8_9/
+
 ```
 ## Environment setup
 
@@ -36,8 +33,7 @@ conda activate ingrams
 ```
 ## Data
 
-`data/` (~600 MB) contains the simulation output summaries grouped by figure and is sufficient for plotting the results.
-
+Data to reproduce the results will be archived on Zenodo (DOI: 10.5281/zenodo.20764012) upon acceptance.
 Raw simulation files are archived at ISTA servers.
 
 ## Citation
