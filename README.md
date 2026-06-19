@@ -1,5 +1,5 @@
 <h1>
-  <img src="ingrams_github.png" width="300" align="left" style="margin-right: 15px">
+  <img src="ingrams_github.png" width="100" align="left" style="margin-right: 15px">
   Ingrams for engrams
 </h1>
 
