@@ -1,4 +1,4 @@
-# Inhibitory Engrams ("ingrams")
+# Ingrams for engrams: co-active inhibitory-inhibitory plasticity shapes inhibitory assemblies that stabilize and recall embedded engrams through disinhibition
 
 Code and data accompanying the paper on co-active inhibitory synaptic plasticity in
 recurrent spiking networks. This repository reproduces every main and supplementary
