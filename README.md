@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-Companion code to Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams. 
+Companion code to Kania, Confavreux, and Vogels 2026 (biorxiv) Inhgrams for engrams. 
 This repository reproduces the main and supplementary figures and includes the network simulation scripts.
 
 ## Repository structure
@@ -17,12 +17,12 @@ This repository reproduces the main and supplementary figures and includes the n
 ├── fig_3_s3.ipynb         # Fig. 3, S3      — E/I assembly weights
 ├── fig_4_5_s4.ipynb       # Fig. 4, 5, S4   — pattern completion
 ├── fig_6_7.ipynb          # Fig. 6, 7       — pattern separation
-├── fig_8_9_s5.ipynb       # Fig. 8, 9, S5   — ingram formation and prediction
+├── fig_8_9_s5.ipynb       # Fig. 8, 9, S5   — inhgram formation and prediction
 │
 ├── networks/              # Brian2 
     ├── co-active_stability/
     ├── EI_assembly/
-    ├── ingram_formation/
+    ├── inhgram_formation/
     ├── pattern_completion/
     └── pattern_separation/
 
@@ -32,8 +32,8 @@ This repository reproduces the main and supplementary figures and includes the n
 Create the environment with conda:
 
 ```bash
-conda env create -f ingrams_env.yaml
-conda activate ingrams
+conda env create -f inhgrams_env.yaml
+conda activate inhgrams
 ```
 ## Data
 
@@ -42,5 +42,5 @@ Raw simulation files are archived at ISTA servers.
 
 ## Citation
 
-1) Kania, Confavreux, and Vogels 2026 (biorxiv) Ingrams for engrams
+1) Kania, Confavreux, and Vogels 2026 (biorxiv) Inhgrams for engrams
 2) Stimberg, Marcel, Goodman, Dan F.M., & Brette, Romain. (Sep 4, 2020). Brian 2 (Version 2.4). Zenodo. doi: 10.5281/zenodo.4015226
